@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lesson27</string>
+    <string name="how_old">Сколько тебе лет?</string>
+    <string name="Your_name">Как тебя зовут?</string>
+    <string name="deskOne">Малыш, ты уже умеешь\nчитать?:)</string>
+    <string name="deskTwo">Сколько тебе лет?</string>
+    <string name="deskThree">Ого! А ты не слишком\nвзрослый ?:)</string>
+    <string name="maxAge">16+</string>
+    <string name="onboard_title">Перед тобой\n«Музей на РЖЯ - детям»,\nобъясняющий незнакомые слова\nиз мира искусства на русском\nжестовом языке!</string>
+</resources>
